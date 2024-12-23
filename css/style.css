@@ -1041,7 +1041,7 @@ font-weight: bold;
 
 
 }
- .Search_btn {
+ .Connect_btn {
     padding: 15px 0px;
     border: #1a1b19 solid 1px;
      background: #1a1b19;
@@ -1055,7 +1055,7 @@ font-weight: bold;
      box-shadow: #b0b0b0 0px -2px 9px 0px;
       transition: all 0.3s ease-in;
 }
- .Search_btn:hover {
+ .Connect_btn:hover {
      background: #428713;
      border: #428713 solid 1px;
      color: #fff;
